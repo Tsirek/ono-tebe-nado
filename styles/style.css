@@ -148,7 +148,7 @@ body {
 
 .cover__description-text {
   display: inline;
-  padding-right: 60px;
+  padding-right: 54px;
   color: #fff;
   font-family: Raleway;
   font-weight: 400;
@@ -156,7 +156,7 @@ body {
   font-style: normal;
   line-height: 28px; /* 127.273% */
   text-transform: uppercase;
-  word-spacing: 17px;
+  word-spacing: 18px;
 }
 
 .bet-button {
